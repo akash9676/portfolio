@@ -4,7 +4,14 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				primarybg: "#1d1d1d",
+				primarybg: "#395144",
+				secondary: "#4E6C50",
+				cursor: "#F0EBCE",
+				intro: "#AA8B56",
+			},
+			fontFamily: {
+				poppins: ["Poppins", "sans-serif"],
+				opensans: ["Poppins", "sans-serif"],
 			},
 		},
 	},
