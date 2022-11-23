@@ -15,7 +15,7 @@ const Intro = () => {
                 </div>
                 <div className='pl-40 flex flex-col justify-center h-full gap-1 text-7xl'>
                     <div className="">Hi,</div>
-                    <div className="">I'm <motion.span className='text-intro ' whileHover={{ scale : 1.2} }> Erripuk </motion.span></div>
+                    <div className="">I'm <motion.span className='text-intro ' whileHover={{ scale : 1.2} }> Akash </motion.span></div>
                     <Typewriter 
                     options={{
                         strings: ["Web Developer." , "UI-UX Designer."],
