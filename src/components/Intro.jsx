@@ -15,8 +15,8 @@ const Intro = () => {
                 </div>
                 <div className='pl-40 flex flex-col justify-center h-full gap-1 text-7xl'>
                     <div className="">Hi,</div>
-                    <div className="">I'm <span className='text-intro hover:line-through'> Akash </span></div>
-                    <Typewriter
+                    <div className="">I'm <motion.span className='text-intro ' whileHover={{ scale : 1.2} }> Erripuk </motion.span></div>
+                    <Typewriter 
                     options={{
                         strings: ["Web Developer." , "UI-UX Designer."],
                         autoStart: true,
@@ -24,17 +24,17 @@ const Intro = () => {
                     }}
                     />
                 </div>
-            <div className=' flex flex-col justify-center items-center absolute w-full bottom-0 animate-pulse'>
+            <div className=' flex flex-col justify-center items-center absolute w-full bottom-0 animate-bounce'>
                 <motion.div 
                 className='text-4xl'
                 whileHover={{ scale: 1.2 }}
-                whileInView={{ opacity: 0.6 }}>
+                whileInView={{ opacity: 0.8 }}>
                 Scroll
                 </motion.div>
                 <motion.div
                 className=''
                 whileHover={{ scale: 1.6 }}
-                whileInView={{ opacity: 0.6 }}>
+                whileInView={{ opacity: 0.8 }}>
                     <BiChevronDown color='white' fontSize='70px'/>
                 </motion.div>
             </div>
