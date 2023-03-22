@@ -14,7 +14,7 @@ const Intro = () => {
                 <Navbar />
                 </div>
                 <div className='pl-40 flex flex-col justify-center h-full gap-1 text-7xl'>
-                    <div className="">Hi,</div>
+                    <div className="">Hello,</div>
                     <div className="">I'm <motion.span className='text-intro hover:underline' whileHover={{ scale : 1.2} }> Akash </motion.span></div>
                     <Typewriter 
                     options={{
@@ -25,12 +25,6 @@ const Intro = () => {
                     />
                 </div>
             <div className=' flex flex-col justify-center items-center absolute w-full bottom-0 animate-bounce'>
-                <motion.div 
-                className='text-4xl'
-                whileHover={{ scale: 1.2 }}
-                whileInView={{ opacity: 0.8 }}>
-                Scroll
-                </motion.div>
                 <motion.div
                 className=''
                 whileHover={{ scale: 1.6 }}

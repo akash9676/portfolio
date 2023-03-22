@@ -20,7 +20,7 @@ export default function Home() {
     return (
         <div >
         <motion.div
-            className="w-10 h-10 rounded-full bg-cursor fixed top-0 left-0 pointer-events-none  "
+            className="w-10 h-10 rounded-full bg-cursor fixed top-0 left-0 pointer-events-none opacity-40 "
             style={{
             translateX: cursorXSpring,
             translateY: cursorYSpring,
