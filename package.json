@@ -35,6 +35,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
+    "tailwind-scrollbar": "^3.0.0",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "tw-elements": "^1.0.0-beta2",
     "typewriter-effect": "^2.19.0"
   },
   "devDependencies": {

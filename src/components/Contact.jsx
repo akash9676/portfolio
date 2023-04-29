@@ -21,10 +21,14 @@ const Contact = () => {
             whileInView={{ opacity: 0.9 , scale: 1 }}
             transition={{ duration: 0.5 }}
             animate = {{ type : "easeinout" }}>
-                <div className="max-w-2xl flex flex-col items-center">
-                    <div className="text-2xl py-1">What's Next?</div>
-                    <div className="text-6xl font-bold py-1 text-intro">Get in Touch</div>
-                    <div className="text-xl py-1 text-center">Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!</div>
+                <div className="max-w-sm md:max-w-lg lg:max-w-2xl flex flex-col items-center">
+                    <div className="text-lg md:text-2xl py-1">What's Next?</div>
+                    <div className="text-4xl md:text-6xl font-bold py-1 text-intro">Get in Touch</div>
+                    <div className="text-lg md:text-xl py-1 text-center">
+                    If you're interested in working together, have any questions, or just want to say hello, 
+                    I'd love to hear from you! You can reach me at <span className="text-skills">akashnaidu545@gmail.com</span> or 
+                    connect with me on Twitter-<span className="text-skills">@Agundapuenni</span>.
+                    Thank you for visiting my portfolio website, and I look forward to connecting with you soon!</div>
                     <a href="mailto:akashnaidu545@gmail.com" className="inline-flex items-center mt-2 px-5 py-3 text-lg font-medium text-gray-900 bg-skills rounded-lg ">Say Hello!</a>
                 </div>
             </motion.div>

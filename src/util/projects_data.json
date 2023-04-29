@@ -1,0 +1,62 @@
+[  
+  {
+    "id ": 1,
+    "name" : "Project 1 : Datamuse",
+    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "altname" : "Datamuse png",
+    "content" : "The Datamuse API is a word-finding query engine for developers. Where you enter a word and You can specify a wide variety of constraints on meaning, spelling, sound, and vocabulary in your queries, in any combination",
+    "technologies" : [
+        "https://cdn.iconscout.com/icon/free/png-256/free-html-2752158-2284975.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png?f=avif&w=128",
+        "https://cdn.sanity.io/images/3gsfgfso/production/fe6bf0184095083d67b2997753bcbc2706716826-225x225.png",
+        "https://cdn.sanity.io/images/3gsfgfso/production/a089d82dbdb74a3176e01ee4aa7455e384702656-360x216.png",
+        "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-netlify-3521601-2945045.png?f=avif&w=128"
+    ]
+  },
+  {
+    "id ": 2,
+    "name" : "Project 2 : Vinod Sarees",
+    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "altname" : "Vinod Sarees png",
+    "content" : "Vinod-sarees is a e-commerce web application. This application contain different kinds of sarees from different locations. We can create an account and login with credentials to continue shopping. This app contains payment portal in which one can pay using debit, credit or upi.",
+    "technologies" : [
+        "https://cdn.iconscout.com/icon/free/png-256/free-html-2752158-2284975.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png?f=avif&w=128",
+        "https://cdn.sanity.io/images/3gsfgfso/production/fe6bf0184095083d67b2997753bcbc2706716826-225x225.png",
+        "https://cdn.sanity.io/images/3gsfgfso/production/a089d82dbdb74a3176e01ee4aa7455e384702656-360x216.png",
+        "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128",
+        "https://www.svgrepo.com/show/327408/logo-vercel.svg"
+    ]
+  },
+  {
+    "id ": 3,
+    "name" : "Project 3 : URL Tracker",
+    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "altname" : "URL Tracker png",
+    "content" : "This chrome extension lets you save the URLs while you are surfing the browser. You can save the URL manually or instead you can save the current URL with just one click",
+    "technologies" : [
+        "https://cdn.iconscout.com/icon/free/png-256/free-html-2752158-2284975.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-netlify-3521601-2945045.png?f=avif&w=128"
+    ]
+  },
+  {
+    "id ": 4,
+    "name" : "Project 4 : TODO List",
+    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "altname" : "TODO List png",
+    "content" : "TODO List web App is a kind of app that is generally used to maintain our day-to-day tasks or list everything that we have to do The most important tasks at the top of the list, and the least important tasks at the bottom. It is helpful in planning our daily schedules.",
+    "technologies" : [
+        "https://cdn.iconscout.com/icon/free/png-256/free-html-2752158-2284975.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128",
+        "https://cdn.iconscout.com/icon/free/png-256/free-netlify-3521601-2945045.png?f=avif&w=128"
+    ]
+  }
+]

@@ -20,6 +20,9 @@ module.exports = {
 		},
 	},
 	plugins: [
-		require('flowbite/plugin')
+		require('flowbite/plugin'),
+		require('tailwind-scrollbar'),
+		require('tailwind-scrollbar-hide'),
+		require("tw-elements/dist/plugin.cjs")
 	],
 };

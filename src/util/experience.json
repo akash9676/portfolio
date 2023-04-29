@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "job" : "Google Developer Student Clubs",
+        "job_description" : "Selected as Content and Design lead & Web dev Co-lead for Google Developer Student Clubs - Guru Nanak Institute of Technical Campus.Proficiency in HTML, CSS and JavaScript. Experience with front-end frameworks React. A keen eye for detail and design.",
+        "job_date" : "September,2022",
+        "job_link" : "https://g.dev/Akash_Gundapuneni"
+    },
+    {
+        "id" : 2,
+        "job" : "Hacktoberfest",
+        "job_description" : "Successfully completed HacktoberFest-2022 (OPEN SOURCE CONTRIBUTION) contest.",
+        "job_date" : "October,2022",
+        "job_link" : "https://www.holopin.io/@akashgundapuneni#badges"
+    }
+]

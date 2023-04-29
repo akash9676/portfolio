@@ -8,12 +8,12 @@ import Navbar from './Navbar';
 const Intro = () => {
     return (
         <>
-        <div className='text-white flex flex-col justify-center items-start h-screen '>
-            <div className=" h-screen flex flex-col  w-screen  absolute top-0 right-0 font-bold font-serif  ">
+        <div className='text-white flex flex-col justify-center items-center lg:items-start  h-screen'>
+            <div className=" h-screen flex flex-col w-screen  absolute top-0 right-0 font-bold font-serif  ">
                 <div className=''>   
-                <Navbar />
+                    <Navbar />
                 </div>
-                <div className='pl-40 flex flex-col justify-center h-full gap-1 text-7xl'>
+                <div className='pl-10 lg:pl-40 flex flex-col justify-center h-full gap-1 text-4xl sm:text-5xl md:text-7xl'>
                     <div className="">Hello,</div>
                     <div className="">I'm <motion.span className='text-intro hover:underline' whileHover={{ scale : 1.2} }> Akash </motion.span></div>
                     <Typewriter 
