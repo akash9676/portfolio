@@ -6,7 +6,7 @@ const  Navbar = () => {
 
     return (
         <nav className="w-full font-opensans">
-            <motion.div className="flex justify-between py-4 mx-auto px-8 sm:px-14 md:px-20 lg:px-48">
+            <motion.div className="flex justify-between py-4 mx-auto px-5 sm:px-14 md:px-20 lg:px-48">
                 <div>
                     <motion.div className="flex items-center justify-between py-3 md:py-3">
                         <a href="">
