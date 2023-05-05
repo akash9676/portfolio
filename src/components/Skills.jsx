@@ -38,28 +38,28 @@ const Skills = () => {
                 animate = {{ type : "easeinout" }}
                 >
                     <div className="">
-                        <div className="text-4xl md:text-6xl py-3 font-semibold text-intro">
+                        <div className="text-3xl md:text-6xl py-3 font-semibold text-intro">
                             Coder
                         </div>
-                        <div className="text-2xl md:text-4xl py-3 font-medium text-skills">
+                        <div className="text-xl md:text-4xl py-3 font-medium text-skills">
                             Front-end 
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             HTML / CSS / TailwindCSS
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Javascript / React
                         </div>
-                        <div className="text-2xl md:text-4xl py-3 font-medium text-skills">
+                        <div className="text-xl md:text-4xl py-3 font-medium text-skills">
                             Back-end 
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Nodejs / MongoDB / Express
                         </div>
-                        <div className="text-2xl md:text-4xl py-3 font-medium text-skills">
+                        <div className="text-xl md:text-4xl py-3 font-medium text-skills">
                             Familiar With
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Bootstrap / netlify / vercel 
                         </div>
                     </div>
@@ -73,25 +73,25 @@ const Skills = () => {
                 animate = {{ type : "easeinout" }}
                 >
                     <div className="">
-                        <div className="text-4xl md:text-6xl py-3 font-semibold text-intro">
+                        <div className="text-3xl md:text-6xl py-3 font-semibold text-intro">
                             Designer
                         </div>
-                        <div className="text-2xl md:text-4xl py-3 font-medium text-skills">
+                        <div className="text-xl md:text-4xl py-3 font-medium text-skills">
                             UI-UX design
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Figma / Adobe XD / Canva
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Responsive design
                         </div>
-                        <div className="text-2xl md:text-4xl py-3 font-medium text-skills">
+                        <div className="text-xl md:text-4xl py-3 font-medium text-skills">
                             Tools
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Adobe PhotoShop / Adobe Illustrator
                         </div>
-                        <div className="text-lg md:text-xl py-1">
+                        <div className="text-base md:text-xl py-1">
                             Adobe Premier Pro
                         </div>
                     </div>
