@@ -21,7 +21,7 @@ const Contact = () => {
             whileInView={{ opacity: 0.9 , scale: 1 }}
             transition={{ duration: 0.5 }}
             animate = {{ type : "easeinout" }}>
-                <div className="max-w-sm md:max-w-lg lg:max-w-2xl flex flex-col items-center">
+                <div className="max-w-xs md:max-w-lg lg:max-w-2xl flex flex-col items-center">
                     <div className="text-lg md:text-2xl py-1">What's Next?</div>
                     <div className="text-4xl md:text-6xl font-bold py-1 text-intro">Get in Touch</div>
                     <div className="text-lg md:text-xl py-1 text-center">
