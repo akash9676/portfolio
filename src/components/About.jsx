@@ -17,7 +17,7 @@ const About = () => {
                 <AboutVerticalanimation />
             </div>
             <div className=" flex items-center justify-center absolute h-screen w-full opacity-85 rounded-md">
-                <motion.div className="flex flex-col max-w-sm md:flex-row md:max-w-3xl lg:max-w-5xl rounded-lg"
+                <motion.div className="flex flex-col max-w-xs md:flex-row md:max-w-3xl lg:max-w-5xl rounded-lg"
                 initial={{ opacity: 0 , scale: 0.9 }}
                 whileInView={{ opacity: 0.9 , scale: 1 }}
                 transition={{ duration: 0.5 }}
