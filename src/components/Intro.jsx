@@ -9,7 +9,7 @@ const Intro = () => {
     return (
         <>
         <div className='text-white flex flex-col justify-center items-center lg:items-start  h-screen'>
-            <div className=" h-screen flex flex-col w-screen  absolute top-0 right-0 font-bold font-serif  ">
+            <div className=" h-screen flex flex-col w-screen absolute top-0 right-0 font-bold font-serif  ">
                 <div className=''>   
                     <Navbar />
                 </div>
