@@ -2,7 +2,8 @@
   {
     "id ": 1,
     "name" : "Project 1 : Datamuse",
-    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "url" : "https://datamuseapi.netlify.app/",
+    "img" : "https://drive.google.com/uc?export=view&id=1fCEJh-Sd6EbiXvsU7T35LDVi2VRjwVbB",
     "altname" : "Datamuse png",
     "content" : "The Datamuse API is a word-finding query engine for developers. Where you enter a word and You can specify a wide variety of constraints on meaning, spelling, sound, and vocabulary in your queries, in any combination",
     "technologies" : [
@@ -18,7 +19,8 @@
   {
     "id ": 2,
     "name" : "Project 2 : Vinod Sarees",
-    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "url" : "https://vinod-sarees.vercel.app/",
+    "img" : "https://drive.google.com/uc?export=view&id=1RtHd-AK5bZy5ANQ5i0RC5tF2xFHi3A_S",
     "altname" : "Vinod Sarees png",
     "content" : "Vinod-sarees is a e-commerce web application. This application contain different kinds of sarees from different locations. We can create an account and login with credentials to continue shopping. This app contains payment portal in which one can pay using debit, credit or upi.",
     "technologies" : [
@@ -34,7 +36,8 @@
   {
     "id ": 3,
     "name" : "Project 3 : URL Tracker",
-    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "url" : "https://github.com/akash9676/Chrome-extension",
+    "img" : "https://drive.google.com/uc?export=view&id=1kzFnYlK4Md60JBUVCL6wwI8wO2SfQw64",
     "altname" : "URL Tracker png",
     "content" : "This chrome extension lets you save the URLs while you are surfing the browser. You can save the URL manually or instead you can save the current URL with just one click",
     "technologies" : [
@@ -48,7 +51,8 @@
   {
     "id ": 4,
     "name" : "Project 4 : TODO List",
-    "img" : "https://drive.google.com/uc?export=view&id=1qDc7PzY9A2-cBCvwMGztcrDsLr_sKtCU",
+    "img" : "https://drive.google.com/uc?export=view&id=1mC0iXmNPefZtZ5XPkCLQZ0ZKVXKK27Lj",
+    "url" : "https://todoitemsapp.netlify.app/",
     "altname" : "TODO List png",
     "content" : "TODO List web App is a kind of app that is generally used to maintain our day-to-day tasks or list everything that we have to do The most important tasks at the top of the list, and the least important tasks at the bottom. It is helpful in planning our daily schedules.",
     "technologies" : [

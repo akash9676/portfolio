@@ -1,6 +1,7 @@
 import React from "react"; 
 import ParallaxText from "./ParallaxText"; 
 import { motion } from "framer-motion";
+import  profile from "../assets/profile_pic.jpg"
 
 const AboutVerticalanimation = () => {
     return (
@@ -23,7 +24,7 @@ const About = () => {
                 transition={{ duration: 0.5 }}
                 animate = {{ type : "easeinout" }}
                     >
-                    <motion.img class="w-48 h-48 rounded-full max-sm:mb-4 self-center md:h-[300px] object-cover md:w-max lg:rounded-tl-md lg:rounded-bl-md md:rounded-none" src="https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" alt="" 
+                    <motion.img class="w-52 h-52 rounded-full max-sm:mb-4 self-center md:h-[300px] object-cover md:w-max lg:rounded-tl-md lg:rounded-bl-md md:rounded-none" src={profile} alt="" 
                     initial={{ opacity: 0 , x: -25,scale: 0.8 }}
                     whileInView={{ opacity: 0.9 , x: 0,scale: 1 }}
                     transition={{duration:0.5}}
