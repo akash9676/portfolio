@@ -6,14 +6,12 @@ const  Navbar = () => {
 
     return (
         <nav className="w-full font-opensans">
-            <motion.div className="flex justify-around py-4 mx-auto md:px-8">
+            <motion.div className="flex justify-between py-4 mx-auto px-8 sm:px-14 md:px-20 lg:px-48">
                 <div>
                     <motion.div className="flex items-center justify-between py-3 md:py-3">
                         <a href="">
                             <motion.h2 className="text-2xl md:text-4xl  font-bold cursor-pointer italic text-intro hover:line-through"
-                            whileHover={{ scale: 1.1 }}
-                            whileTap={{ scale: 0.9 }}
-                            initial={{ opacity: 0 , scale: 0.9 , x: -400 }}
+                            initial={{ opacity: 0 , scale: 0.9 , x: -10 }}
                             whileInView={{ opacity: 1 , scale: 1 , x: 0 }}
                             transition={{ duration: 0.5 }}
                             animate = {{ type : "easeinout" }}
@@ -24,7 +22,7 @@ const  Navbar = () => {
                 </div>
                 <div>
                     <motion.div className="py-3"
-                    initial={{ opacity: 0 , scale: 0.9 , x: +400 }}
+                    initial={{ opacity: 0 , scale: 0.9 , x: +10 }}
                     whileInView={{ opacity: 1 , scale: 1 , x: 0 }}
                     transition={{ duration: 0.5 }}
                     animate = {{ type : "easeinout" }}>
