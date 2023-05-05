@@ -31,14 +31,14 @@ const Skills = () => {
                 </div>
             </div> */}
             <div className="flex flex-row h-screen w-full font-opensans">
-                <motion.div className=" flex flex-col flex-1 justify-center items-center"
+                <motion.div className="flex flex-col flex-1 justify-center items-center "
                 initial={{ opacity: 0 , x: -50 ,scale: 0.5 }}
                 whileInView={{ opacity: 0.9 , x: 0,scale: 1 }}
                 transition={{duration:0.8}}
                 animate = {{ type : "easeinout" }}
                 >
                     <div className="">
-                        <div className="text-3xl md:text-6xl py-3 font-semibold text-intro">
+                        <div className="text-3xl md:text-6xl py-2 md:py-3 font-semibold text-intro">
                             Coder
                         </div>
                         <div className="text-xl md:text-4xl py-3 font-medium text-skills">
@@ -73,7 +73,7 @@ const Skills = () => {
                 animate = {{ type : "easeinout" }}
                 >
                     <div className="">
-                        <div className="text-3xl md:text-6xl py-3 font-semibold text-intro">
+                        <div className="text-3xl md:text-6xl py-2 md:py-3 font-semibold text-intro">
                             Designer
                         </div>
                         <div className="text-xl md:text-4xl py-3 font-medium text-skills">
