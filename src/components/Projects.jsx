@@ -21,7 +21,7 @@ const Projects = () => {
                     {
                         projectsdata.map((project) => {
                             return (
-                                <div className="flex flex-col justify-center items-center snap-center px-96" key={project.id}> 
+                                <div className="flex flex-col justify-center items-center snap-center mx-96" key={project.id}> 
                                     <motion.img 
                                     src={project.img} 
                                     alt={project.altname} 
