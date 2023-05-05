@@ -21,7 +21,7 @@ const Projects = () => {
                     {
                         projectsdata.map((project) => {
                             return (
-                                <div className=" flex flex-col justify-center items-center snap-center mx-96">
+                                <div className=" flex flex-col justify-center items-center snap-center mx-96" key={project.id}> 
                                     <motion.img 
                                     src={project.img} 
                                     alt={project.altname} 
@@ -30,14 +30,15 @@ const Projects = () => {
                                     whileInView={{ opacity: 1, y: 0 }}
                                     transition={{ duration: 1.5 }}
                                     viewport={{ once: true }}
-                                    animate = {{ type : "easeinout" }}/>
+                                    animate = {{ type : "easeinout" }}
+                                    />
                                     <div className="text-xl mb-3 sm:text-2xl lg:text-4xl font-sans font-semibold text-intro">{project.name}</div>
                                     <div className="flex my-3 gap-4">
                                         {
                                             project.technologies.map((technology) => {
                                                 return (
                                                     <img src={technology} alt=""
-                                                    className="h-7 w-7 sm:h-6 sm:w-6 lg:h-10 lg:w-10" />
+                                                    className="h-7 w-7 sm:h-6 sm:w-6 lg:h-10 lg:w-10" key={project.id} />
                                                 )
                                             },[])
                                         }

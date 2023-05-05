@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "skills_items" : [
+            "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png",
+            "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+            "https://res.cloudinary.com/practicaldev/image/fetch/s--762O-5e0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qy0ctxjhdgvvj6e4ra10.png"
+        ]
+    },
+    {
+        "id": 2,
+        "skills_items" : [
+            "https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmY6aDYQGDsPrddRexPdk6vhKrsKMPqKm35Ke7XImbug&usqp=CAU&ec=48665698",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgsh7auE-Y52h0L-fpyR9QLUzaCow36NaY2dEaYDZUg&usqp=CAU&ec=48665698",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyl-onLQIvsPQWsY6M-6hpKVsJ7IvdYM337jsjzKzHA&usqp=CAU&ec=48665698"
+        ]
+    },
+    {
+        "id": 3,
+        "skills_items" : [
+            "https://cdn.icon-icons.com/icons2/2104/PNG/96/api_icon_129131.png",
+            "https://cdn.icon-icons.com/icons2/2429/PNG/96/figma_logo_icon_147289.png",
+            "https://cdn.icon-icons.com/icons2/2368/PNG/96/github_logo_icon_143772.png",
+            "https://cdn.icon-icons.com/icons2/3053/PNG/96/adobe_xd_macos_bigsur_icon_190424.png"
+        ]
+    },
+    {
+        "id": 3,
+        "skills_items" : [
+            "https://cdn.icon-icons.com/icons2/2699/PNG/96/canva_logo_icon_168460.png",
+            "https://cdn.icon-icons.com/icons2/3053/PNG/96/adobe_photoshop_macos_bigsur_icon_190436.png",
+            "https://cdn.icon-icons.com/icons2/3053/PNG/96/adobe_illustrator_macos_bigsur_icon_190447.png",
+            "https://cdn.icon-icons.com/icons2/3053/PNG/96/adobe_premiere_pro_macos_bigsur_icon_189485.png"
+        ]
+    }
+]
