@@ -19,7 +19,7 @@ const Experience = () => {
                 <ExperienceVerticalanimation />
             </div>
             <div className=" flex items-center justify-center absolute h-screen w-full opacity-85 rounded-md">
-                <ol class="relative border-l border-dashed border-white max-w-sm md:max-w-2xl lg:max-w-4xl ">           
+                <ol class="relative border-l border-dashed border-white max-w-xs md:max-w-2xl lg:max-w-4xl ">           
                     {
                         experiences && experiences.map((experience) => {
                             return (

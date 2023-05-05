@@ -42,7 +42,7 @@ const Projects = () => {
                                             },[])
                                         }
                                     </div>
-                                    <div className="text-lg text-center h-40 w-[400px] lg:w-[1000px] md:w-[700px] sm:h-auto p-3">{project.content}</div>
+                                    <div className="text-lg text-center h-40 w-[300px] lg:w-[1000px] md:w-[700px] sm:h-auto p-3">{project.content}</div>
                                 </div>
                             )
                         }

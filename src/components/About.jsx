@@ -23,32 +23,27 @@ const About = () => {
                 transition={{ duration: 0.5 }}
                 animate = {{ type : "easeinout" }}
                     >
-                    <motion.img class=" w-48 h-48 self-center rounded-full max-sm:p-3 md:h-[500px] object-cover md:w-[500px] lg:rounded-tl-md lg:rounded-bl-md md:rounded-none md:rounded-l-lg mb-3" src="https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" alt="" 
+                    <motion.img class="w-48 h-48 rounded-full max-sm:mb-4 self-center md:h-[300px] object-cover md:w-max lg:rounded-tl-md lg:rounded-bl-md md:rounded-none" src="https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" alt="" 
                     initial={{ opacity: 0 , x: -25,scale: 0.8 }}
                     whileInView={{ opacity: 0.9 , x: 0,scale: 1 }}
                     transition={{duration:0.5}}
                     animate = {{ type : "easeinout" }}
                     />
-                    <motion.div class="p-6 flex flex-col justify-start bg-about rounded-tr-md rounded-br-md"
+                    <motion.div class="px-6 py-5 flex flex-col justify-center bg-about max-sm:rounded-md sm:rounded-tr-md sm:rounded-br-md"
                     initial={{ opacity: 0 , x: 25,scale: 0.8 }}
                     whileInView={{ opacity: 0.9 , x: 0,scale: 1 }}
                     transition={{duration:0.5}}
                     animate = {{ type : "easeinout" }}
                     >
-                        <motion.div class="text-gray-900 text-2xl md:text-3xl font-medium mb-3"
+                        <motion.div class="text-intro text-2xl md:text-4xl font-medium lg:mb-3"
                         initial={{ opacity: 0 , y: 20 }}
                         whileInView={{ opacity: 1 , y: 0 }}
                         transition={{duration:0.5}}
                         animate = {{ type : "easeinout" }}
                         >About me</motion.div>
-                        <p class="text-gray-700 text-base md:text-lg">
-                        Hello, I'm Akash, I'm a self-taught web developer and UI/UX designer with a strong foundation in HTML, CSS, JavaScript, React and Designing.
-                        I also have some basic knowledge on general-purpose programming languages like C++ and Python, which I continue to develop through self-study.
-                        In addition to my development skills, I have experience in content and design, Mentorship through my involvement in Google Developer Student Clubs. 
-                        As a content and design lead, I collaborated with team members to create engaging and informative content that helped students learn and grow. 
-                        As a web developer co-lead, I become mentor to help students learn and grow their knowledge of web development .
-                        I'm also a contributor to open source projects, having participated in events like Hacktoberfest. Through my open source contributions, 
-                        I've gained valuable experience working with a diverse community of developers and contributing to projects that benefit the broader tech community.
+                        <p class="text-gray-600 text-base md:text-lg">
+                        I'm Akash, a self-taught web developer and UI/UX designer with strong skills in HTML, CSS, JavaScript, and React. I have basic knowledge of C++ and Python. 
+                        I have experience in content and design, mentoring through Google Developer Student Clubs, and contributing to open-source projects like Hacktoberfest.
                         </p>
                     </motion.div>
                 </motion.div>
