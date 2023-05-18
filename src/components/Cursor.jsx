@@ -18,9 +18,9 @@ export default function Home() {
         };
     }, []);
     return (
-        <div >
+        <div>
         <motion.div
-            className="w-10 h-10 rounded-full bg-cursor fixed top-0 left-0 pointer-events-none opacity-40 "
+            className="w-10 h-10 rounded-full bg-cursor fixed top-0 left-0 pointer-events-none opacity-40 max-md:bg-transparent"
             style={{
             translateX: cursorXSpring,
             translateY: cursorYSpring,
